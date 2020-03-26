@@ -1,0 +1,10 @@
+export const BOT_TOKEN = "MmQwZjcwNGYtOTg3YS00YTc1LWJmODUtMjk4ZDUxYWQxYTI2MWMyNmU5YjktMGIz_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f";
+export const BOT_ID = "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zNzUzZWIwYS1jMTU4LTRkMDUtYTRhNy05NWQ0NjZiZjBiNDE";
+export const BOT_NAME = "toTeamsFeedback";
+export const JIRA_TOKEN = "hyOst3MzikVzFC4GFQ7kYtJQvPY0G66dHtKO2LYBwui0ab7I2XfQe-QNrl5xFTJo";
+export const JIRA_ID = "igkRjK8Z79LRgkX5E6mH7azSXo4A18yw";
+export const TEAMS_API_URL = "https://api.ciscospark.com/v1";
+export const JIRA_URL = 'https://jira-eng-gpk2.cisco.com/jira';
+export const JIRA_BROWSE_URL = `${JIRA_URL}/browse`;
+export const JIRA_API_URL = `${JIRA_URL}/rest/api/2`;
+export const PORT = 9999;
