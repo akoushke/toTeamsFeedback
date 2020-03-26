@@ -5,7 +5,7 @@ const axiosInstance = axios.create({
 	baseURL: JIRA_API_URL,
 	timeout: 5000,
 	headers: {
-		"Content-Type": " application/json", "Authorization": "Basic YWtvdXNoa2U6UmV6YWtqb29uYW0hMQ=="
+		"Content-Type": " application/json", "Authorization": "Your Creds"
 	},
 });
 
